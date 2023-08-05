@@ -30,3 +30,11 @@ Since transferUserInfo(_:) does not work in the simulator, the operation video i
 Sends the specified file and optional dictionary to the counterpart.
 
 <img width="400" alt="Text" src="https://user-images.githubusercontent.com/79180266/212256913-1f286a4f-d895-4ffb-9f80-ef0ba735c00d.gif">
+
+## Ver.1.0
+|  Ver. | 1.0  |
+|:------|-------:|
+| Xcode | 14.3.1   |
+| Swift | 5.8.1   |
+| iOS  | 15.0 - |
+| watchOS  | 8.0 - |
